@@ -1,2 +1,2 @@
 # qtpdf
-Pdf reader and creator using qt libraries
+Pdf viewer written in C++11 using the Qt framework.
